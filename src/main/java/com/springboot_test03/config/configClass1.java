@@ -9,7 +9,8 @@ import org.springframework.stereotype.Component;
 @Data
 @ConfigurationProperties(prefix = "config1")
 public class configClass1 {
-    //test1
+    //test01
+    //test02
     private String name;
     private String ipAddress;
 }
