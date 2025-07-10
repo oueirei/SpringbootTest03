@@ -1,0 +1,10 @@
+config:
+  name: testClass
+  ipAddress: 192.165.0.1
+
+datasource:
+    driverClassName: com.mysql.jdbc.Driver123
+
+config1:
+  name: testClass1
+  ipAddress: 192.165.0.11
