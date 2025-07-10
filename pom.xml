@@ -50,6 +50,8 @@
             <artifactId>druid-spring-boot-starter</artifactId>
             <version>1.2.20</version> <!-- 最新安定版を確認してください -->
         </dependency>
+
+
     </dependencies>
 
     <build>
