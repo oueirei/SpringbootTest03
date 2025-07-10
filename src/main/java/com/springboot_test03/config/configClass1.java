@@ -13,4 +13,5 @@ public class configClass1 {
     //test02
     private String name;
     private String ipAddress;
+    //private
 }
